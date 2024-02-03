@@ -3,4 +3,5 @@ IBM ML0101EN Machine Learning with Python course on CognitiveClass.ai
 https://cognitiveclass.ai/courses/machine-learning-with-python
 
 
-[Machine_Learning_with_Python___Level_1_Badge20240203-29-ynlttu.pdf](https://github.com/thaonguyen2417/IBM-ML-with-Python/files/14151995/Machine_Learning_with_Python___Level_1_Badge20240203-29-ynlttu.pdf)
+![image](https://github.com/thaonguyen2417/IBM-ML-with-Python/assets/148276131/0d603eda-17da-4c07-842c-2a2c3bf266b5)
+
